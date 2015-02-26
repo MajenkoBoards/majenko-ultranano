@@ -1,0 +1,13 @@
+Source: majenko-ultranano-chipkit
+Section: boards
+Priority: extra
+XBSC-Family: pic32
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: majenko-ultranano-chipkit
+Architecture: all
+Depends: chipkit
+Description: UltraNano USB Dongle
+
